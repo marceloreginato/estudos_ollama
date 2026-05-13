@@ -4,6 +4,8 @@ Link para o site oficial: [https://ollama.com/](https://ollama.com/)
 
 O **Ollama** é um projeto open source que permite rodar modelos de IA direto no seu computador. Com ele você gerencia e executa modelos facilmente. Além disso, o Ollama expõe uma **REST API**. Isso significa que você pode integrar os modelos às suas aplicações, como por exemplo utilizando o langchain.
 
+Obs.: Assim como no docker, os modelos também são baixados com 'Nome:tag'
+
 ## Benefícios
 
 - Privacidade: Como está local, dados não passam por nada além do seu próprio computador;
